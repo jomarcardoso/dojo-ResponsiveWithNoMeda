@@ -26,3 +26,5 @@ element {
   max-width: 100px;
 }
 ```
+
+Grid minmax
