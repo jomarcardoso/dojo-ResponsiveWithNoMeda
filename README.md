@@ -17,3 +17,12 @@ element {
   flex-wrap: wrap;
 }
 ```
+
+Se o elemento for filho de flex
+
+```css
+element {
+  width: calc(100% / 3);
+  max-width: 100px;
+}
+```
