@@ -10,3 +10,10 @@ element {
   max-width: 300px;
 }
 ```
+
+```css
+element {
+  display: flex;
+  flex-wrap: wrap;
+}
+```
