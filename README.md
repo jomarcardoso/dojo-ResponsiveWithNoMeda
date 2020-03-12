@@ -31,6 +31,8 @@ Grid minmax
 
 Fazer um wrapper do conteúdo com uma margem negativa.
 
+Assemelha-se ao "grid-gap".
+
 ```html
 <div>
   <div class="wrapper">
